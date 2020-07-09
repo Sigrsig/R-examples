@@ -1,2 +1,2 @@
 # R-examples
-Some examples of work in R
+Some examples of work in R, done in Rstudio
